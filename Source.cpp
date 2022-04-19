@@ -30,4 +30,6 @@ int main() {
 	cout << "Input your age : " << endl;
 	cin >> age;
 	calling(name, id, age);
+	cin.get();
+	return 0;
 }
